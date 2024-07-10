@@ -11,3 +11,4 @@ jupyter
 torchtext==0.5.0
 spacy==2.0.0
 mplleaflet
+flwr
